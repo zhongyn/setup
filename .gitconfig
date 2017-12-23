@@ -1,0 +1,10 @@
+[user]
+	name = YZ044636
+	email = yaonan.zhong@cerner.com
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	pl = pull
+	ps = push
+	st = status
